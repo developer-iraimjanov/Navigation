@@ -9,6 +9,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
+import uz.iraimjanov.navigation.navigation.nav_graph.SetupNavGraph
 import uz.iraimjanov.navigation.ui.theme.NavigationTheme
 
 class MainActivity : ComponentActivity() {
